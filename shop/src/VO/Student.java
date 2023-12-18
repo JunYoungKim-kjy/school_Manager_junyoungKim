@@ -1,4 +1,4 @@
-package School_김준영Ver3;
+package VO;
 
 public class Student {
 	public int stuNo;

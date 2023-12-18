@@ -1,4 +1,4 @@
-package School_김준영Ver3;
+package Utils;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -8,6 +8,9 @@ import java.io.FileWriter;
 import java.io.IOException;
 import java.util.Random;
 import java.util.Scanner;
+
+import DAO.StudentDAO;
+import DAO.SubjectDAO;
 
 public class Util {
 	public static Scanner sc;
