@@ -4,5 +4,5 @@
 /**
  * 
  */
-module school {
+module shop {
 }
